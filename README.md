@@ -1,5 +1,11 @@
 # 💫 About Me:
-Pursuing MCA at AIMS Institutes, Peenya, Bengaluru<br>Aspiring Full Stack Developer and AI Enthusiast
+Pursuing MCA at AIMS Institutes, Peenya, Bengaluru. <br> Vibe coder. 
+
+Enthusiastic Full Stack Developer with internship experience in web
+development and a strong foundation in AI/ML. Skilled in building
+responsive web and mobile applications with hands-on experience in
+modern technologies. Quick learner, team player, and passionate about
+solving real-world problems through code.
 
 
 ## 🌐 Socials:
